@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a third-year Digital Game Design student at Beykoz University with a long-standing
+passion for game development, which began in high school. Over the past two years, I have
+collaborated with my friends to develop web games, gaining experience on both large and
+small projects. I have actively participated in numerous game jams, enhancing my time
+management skills and ability to work effectively in teams. With five years of experience using
+Unity, I am continually improving my skills in object-oriented programming, SOLID principles,
+and design patterns.
+
+https://zilyanus.itch.io/
+
 <!--
 **Zilyanus/Zilyanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
